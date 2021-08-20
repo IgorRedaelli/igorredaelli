@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there 👋 I'm 👨‍💻 Igor Redaelli
+# Hi there 👋 I'm Igor Redaelli
 
 **WordPress Developer • IT Specialist**
 
