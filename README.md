@@ -4,7 +4,7 @@
 
 **WordPress Developer • IT Specialist**
 
-I'm a 20-year-old Frontend Developer specialized in the development of solutions for WordPress (plugins and themes) with a working background in manufacturing companies and digital agency. Skilled in Web Development, Marketing Technologies Development (MarTech), IT Service Management (ITSM), Business Process, Customer Relationship Management (CRM).
+I'm a 20-year-old Frontend Developer specialized in the development of custom solutions for WordPress (plugins and themes) with a working background in manufacturing companies and digital agency. Skilled in Web Development, Marketing Technologies Development (MarTech), IT Service Management (ITSM), Business Process, Customer Relationship Management (CRM).
 
 <br>
 
