@@ -10,7 +10,7 @@ I'm a 20-year-old Frontend Developer specialized in the development of solutions
 
 # 🚀 Projects
 
-List of the main projects I have worked on
+List of the main projects I have worked on ***(coming soon)***
 
 | Name | Description | Link |
 | --- | --- | --- |
@@ -26,19 +26,19 @@ List of the main projects I have worked on
 
 ***Website development***
 
-WordPress (custom themes and plugins, headless CMS, REST API), HTML, CSS, JavaScript, PHP, MySQL (phpMyAdmin), JAMStack (Gatsby), Bootstrap, techcnical SEO, Google Analytics, Google Tag Manager
+WordPress (custom themes and plugins, headless CMS, REST API), HTML, CSS, JavaScript, PHP, MySQL (phpMyAdmin), Jamstack (Gatsby), Bootstrap, technical SEO, Google Analytics, Google Tag Manager
 
 <br>
 
 ***Information Technology***
 
-Sophos security solutions (firewall, access point, endpoint protection), VPN (client-site, site-to-site), switching&routing (VLAN), DNS management, Active Directory, Office 365, Google Workspace, VMware, MDM (Apple and Android)
+IT security solutions (firewall, access point, endpoint protection), VPN (client-site, site-to-site), switching&routing (VLAN), DNS management, Active Directory, Office 365, Google Workspace, VMware, MDM (Apple and Android)
 
 <br>
 
 # 🔗 Get in touch with me
 
-You can find more details about me and what I do on my <a href="https://www.linkedin.com/in/igorredaelli" target="_blank">LinkedIn profile</a>, or you can drop me a line: me@igorredaelli.com
+You can find more details about me and what I do on my <a href="https://www.linkedin.com/in/igorredaelli" target="_blank">LinkedIn profile</a>
 
 <hr>
 </div>
