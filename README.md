@@ -14,7 +14,7 @@ List of the main projects I have worked on ***(coming soon)***
 
 | Name | Description | Link |
 | --- | --- | --- |
-| <b>Personal Web Site</b> |️ My personal blog and website (WordPress) | https://www.igorredaelli.com
+| <b></b> |️  | 
 
 <br>
 
